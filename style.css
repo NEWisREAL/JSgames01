@@ -1,0 +1,19 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 306px;
+    width: 408px;
+}
+
+.warpper {
+    margin: 50px auto;
+    width: 410px;
+}
+
+.border {
+    border: 1px solid #000;
+}
+
+img {
+    border: 1px solid #000;
+}
